@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ListPagination",
+        "repositoryURL": "https://github.com/crelies/ListPagination",
+        "state": {
+          "branch": null,
+          "revision": "af667b368a10512da79605b61698d53c11d24cbf",
+          "version": "0.1.1"
+        }
+      },
+      {
+        "package": "ModalView",
+        "repositoryURL": "https://github.com/diniska/modal-view.git",
+        "state": {
+          "branch": null,
+          "revision": "e9063b249148134b6ab24832ac8101835638a5af",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
